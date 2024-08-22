@@ -6,7 +6,9 @@
 
 > Some fun facts about me ☺️:
 
-- 🔭 I’m currently working as technical support N2
+- 🔭 I’m currently working as requirements analyst.
+- Working to solve problems and improvements, preparing documentation of changes and improvements, suggested by internal and external customers, and to support the software. And
+  responsible for validating and testing new features to be launched, with the appropriate acceptance and quality criteria.
 - 🌱 I have a specialization in data science full stack
 - 💬 Ask me about technology, data science, Podcasts and talking about how to build a PC gamer - I'll be happy to help, it'll be fun 😉
 - 😄 Pronouns: She/Her
